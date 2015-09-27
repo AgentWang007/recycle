@@ -12,5 +12,3 @@ module Parser
     end
   end
 end
-
-
