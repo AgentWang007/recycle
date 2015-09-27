@@ -35,5 +35,3 @@ The controller and viewer are both responsible for the user experience. Instead 
 This application was an exercise to practice interacting with real-world data sets. We envision people using this application as a guide to leading a lifestyle that benefits the environment instead of damaging it. Although not everyone will want to use this application, the mere existence of this application on the internet may lead to users possibly trying it. Excelsior!
 
 ![don_cheadle](http://comphacker.org/comp/engl338/files/2013/04/Don-Cheadle-is-Captain-Planet-2.jpg)
-
-
