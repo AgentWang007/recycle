@@ -1,7 +1,7 @@
 class View
 
   def welcome
-    puts ""
+     system 'clear'
     puts "d8888b. d88888b  .o88b. db    db  .o88b.    db      db    db
 88  `8D 88'     d8P  Y8 `8b  d8' d8P  Y8    88      `8b  d8'
 88oobY' 88ooooo 8P       `8bd8'  8P         88       `8bd8'
@@ -12,8 +12,7 @@ class View
                                                              "
   puts "Welcome to recyc.ly! The best app for your recycling desires."
   puts ""
-    system 'clear'
-    puts "Welcome to recyc.ly! The best app for your recycling desires."
+
   end
 
   def enter_boroughs
