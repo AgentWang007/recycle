@@ -1,7 +1,17 @@
 class View
 
   def welcome
-    puts "Welcome to recyc.ly! The best app for your recycling desires."
+    puts ""
+    puts "d8888b. d88888b  .o88b. db    db  .o88b.    db      db    db
+88  `8D 88'     d8P  Y8 `8b  d8' d8P  Y8    88      `8b  d8'
+88oobY' 88ooooo 8P       `8bd8'  8P         88       `8bd8'
+88`8b   88~~~~~ 8b         88    8b         88         88
+88 `88. 88.     Y8b  d8    88    Y8b  d8 db 88booo.    88
+88   YD Y88888P  `Y88P'    YP     `Y88P' VP Y88888P    YP
+
+                                                             "
+  puts "Welcome to recyc.ly! The best app for your recycling desires."
+  puts ""
   end
 
   def enter_boroughs
