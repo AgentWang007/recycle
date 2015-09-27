@@ -12,7 +12,6 @@ class View
                                                              "
   puts "Welcome to recyc.ly! The best app for your recycling desires."
   puts ""
-=======
     system 'clear'
     puts "Welcome to recyc.ly! The best app for your recycling desires."
   end

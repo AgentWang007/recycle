@@ -1,10 +1,8 @@
 require_relative 'view'
-require_relative 'model'
+require_relative 'parser'
 
 class Controller
-
   include Parser
-
   attr_reader :array, :list
 
   def initialize
